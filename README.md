@@ -1,6 +1,6 @@
 # 2023 Waze User Churn Prediction
 
-![Waze_PowerPoint](https://github.com/juliafsuzuki/202310_Waze-User-Churn-Prediction/assets/77695324/792e6970-99f6-43f5-8900-19dd889d523c)
+![Waze_PowerPoint](https://github.com/juliafsuzuki/202310_Waze-User-Churn-Prediction/assets/77695324/9461b626-1bc0-45e2-ad39-884e391cbd84)
 
 Kaggle Notebook with Python codes: [https://www.kaggle.com/code/juliasuzuki/waze-user-churn-prediction](https://www.kaggle.com/code/juliasuzuki/waze-user-churn-prediction-binary-classification?scriptVersionId=148506010)
 
